@@ -1,7 +1,8 @@
 export const globalOptions = {
-  name: "t20230322-dev-71397",
-  url: "https://t20230322-dev-71397.botics.co",
-  api: "https://t20230322-dev-71397.botics.co/api/v1"
+  "name": "t20230322-dev-71397",
+  "url": "https://t20230322-dev-71397.botics.co",
+  "api": "https://t20230322-dev-71397.botics.co/api/v1",
+  "initialRoute": "Untitled1"
 };
 export const modulesOptions = {
   "@modules/app-menu": {
